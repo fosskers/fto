@@ -1,0 +1,12 @@
+* fto
+
+** Installation
+
+Make sure you have the [[http://docs.haskellstack.org/en/stable/README/][Stack Tool]] installed, then run ~stack install~. ~fto~
+will be installed in ~/home/you/.local/bin~. Make sure it's in your PATH.
+
+** Usage
+
+Just run ~fto~ in a directory with flac files, and copies of them in
+Ogg Vorbis format will be created. All output is from ~ffmpeg~ and can
+be ignored.
