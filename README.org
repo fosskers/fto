@@ -8,5 +8,5 @@ will be installed in ~/home/you/.local/bin~. Make sure it's in your PATH.
 ** Usage
 
 Just run ~fto~ in a directory with flac files, and copies of them in
-Ogg Vorbis format will be created. All output is from ~ffmpeg~ and can
+[[https://www.xiph.org/vorbis/][Ogg Vorbis]] format will be created. All output is from ~ffmpeg~ and can
 be ignored.
